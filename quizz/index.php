@@ -320,7 +320,7 @@
    </div>
    <!-- jQuery-js include -->
    <script src="assets/js/jquery-3.6.0.min.js"></scrip>
-   <!-- Bootstrap-js include -->
+
    <script src="assets/js/bootstrap.min.js"></script>
    <!-- jQuery-validate-js include -->
    <script src="assets/js/jquery.validate.min.js"></script>
