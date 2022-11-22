@@ -313,6 +313,7 @@
                <div class="form_btn">
                   <button type="button" class="f_btn rounded-pill prev_btn text-uppercase text-white position-absolute" id="prevBtn" onclick="nextPrev(-1)"> Précédent</button>
                   <button type="button" class="f_btn rounded-pill next_btn text-uppercase text-white position-absolute" id="nextBtn" onclick="nextPrev(1);rand()"></button>
+                  onclick="nextPrev(1)">Next</button>
                </div>
             </form>
          </div>
@@ -328,6 +329,4 @@
    <script src="assets/js/script.js"></script>
 </body>
 
-
-<!-- Mirrored from jthemes.net/themes/html/quizo/version-15/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 20 Nov 2022 22:02:40 GMT -->
 </html>
