@@ -24,7 +24,7 @@
       <!-- Top content -->
       <div class="container-fluid p-0">
          <div class="logo_area">
-            <a href="index.html">
+            <a href="index.php">
                <img src="assets/images/logo/logo1.png" alt="image_not_found">
             </a>
          </div>
@@ -43,7 +43,7 @@
                            </div>
                         </div>
                         <div class="question_number text-capitalize">
-                           <span class="text-white">question 1 / 4</span>
+                           <span class="text-white">question 1 / 8</span>
                            <p class="pt-3">------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
                         </div>
                         <div class="question_title py-3">
@@ -77,23 +77,23 @@
                            </div>
                         </div>
                         <div class="question_number text-capitalize">
-                           <span class="text-white">question 1 / 4</span>
+                           <span class="text-white">question 2 / 8</span>
                            <p class="pt-3">------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
                         </div>
                         <div class="question_title py-3">
-                           <h1 class="text-white">Que penser vous des Lois de notre monde ?</h1>
+                           <h1 class="text-white">Il y a t'il plus mignon/mignonne que toi ? ?</h1>
                         </div>
                         <div class="form_items">
                            <label for="opt_4" class="step_2 animate__animated animate__fadeInRight animate_25ms position-relative rounded-pill text-start text-white">
-                              C'est le pillier de notre monde
+                              Non plus mignon/mignonne que moi tu meurs
                               <input id="opt_4" type="radio" name="stp_2_select_option" value="The Botanical Gardens" checked>
                            </label>
                            <label for="opt_5" class="step_2 animate__animated animate__fadeInRight animate_50ms position-relative rounded-pill text-start text-white active">
-                              Ennuyante
+                              Oui je pense
                               <input id="opt_5" type="radio" name="stp_2_select_option" value="The Science museum">
                            </label>
                            <label for="opt_6" class="step_2 animate__animated animate__fadeInRight animate_75ms position-relative rounded-pill text-start text-white">
-                              M'en bas les c***lles
+                              Peut être
                               <input id="opt_6" type="radio" name="stp_2_select_option" value="The Olympic Stadium">
                            </label>
                         </div>
@@ -111,7 +111,7 @@
                            </div>
                         </div>
                         <div class="question_number text-capitalize">
-                           <span class="text-white">question 2 / 4</span>
+                           <span class="text-white">question 3 / 8</span>
                            <p class="pt-3">------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
                         </div>
                         <div class="question_title py-3">
@@ -142,23 +142,23 @@
                            </div>
                         </div>
                         <div class="question_number text-capitalize">
-                           <span class="text-white">question 1 / 4</span>
+                           <span class="text-white">question 4 / 8</span>
                            <p class="pt-3">------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
                         </div>
                         <div class="question_title py-3">
-                           <h1 class="text-white">Que penser vous des Lois de notre monde ?</h1>
+                           <h1 class="text-white">Quel pouvoir tu voudrais ?</h1>
                         </div>
                         <div class="form_items">
                            <label for="opt_9" class="step_4 animate__animated animate__fadeInRight animate_25ms position-relative rounded-pill text-start text-white">
-                              C'est le pillier de notre monde
+                              L'invisibilité
                               <input id="opt_9" type="radio" name="stp_4_select_option" value="The Botanical Gardens" checked>
                            </label>
                            <label for="opt_10" class="step_4 animate__animated animate__fadeInRight animate_50ms position-relative rounded-pill text-start text-white active">
-                              Ennuyante
+                              Transformé tout en or
                               <input id="opt_10" type="radio" name="stp_4_select_option" value="The Science museum">
                            </label>
                            <label for="opt_10" class="step_4 animate__animated animate__fadeInRight animate_75ms position-relative rounded-pill text-start text-white">
-                              M'en bas les c***lles
+                              Invincibilité
                               <input id="opt_10" type="radio" name="stp_4_select_option" value="The Olympic Stadium">
                            </label>
                         </div>
@@ -176,23 +176,23 @@
                            </div>
                         </div>
                         <div class="question_number text-capitalize">
-                           <span class="text-white">question 1 / 4</span>
+                           <span class="text-white">question 5 / 8</span>
                            <p class="pt-3">------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
                         </div>
                         <div class="question_title py-3">
-                           <h1 class="text-white">Que penser vous des Lois de notre monde ?</h1>
+                           <h1 class="text-white">C'est quoi ton mood ?</h1>
                         </div>
                         <div class="form_items">
                            <label for="opt_11" class="step_5 animate__animated animate__fadeInRight animate_25ms position-relative rounded-pill text-start text-white">
-                              C'est le pillier de notre monde
+                              Flemmard
                               <input id="opt_11" type="radio" name="stp_5_select_option" value="The Botanical Gardens" checked>
                            </label>
                            <label for="opt_12" class="step_5 animate__animated animate__fadeInRight animate_50ms position-relative rounded-pill text-start text-white active">
-                              Ennuyante
+                              Dixipliné
                               <input id="opt_12" type="radio" name="stp_5_select_option" value="The Science museum">
                            </label>
                            <label for="opt_13" class="step_5 animate__animated animate__fadeInRight animate_75ms position-relative rounded-pill text-start text-white">
-                              M'en bas les c***lles
+                              food is bae....
                               <input id="opt_13" type="radio" name="stp_5_select_option" value="The Olympic Stadium">
                            </label>
                         </div>
@@ -210,23 +210,23 @@
                            </div>
                         </div>
                         <div class="question_number text-capitalize">
-                           <span class="text-white">question 1 / 4</span>
+                           <span class="text-white">question 6 / 8</span>
                            <p class="pt-3">------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
                         </div>
                         <div class="question_title py-3">
-                           <h1 class="text-white">Que penser vous des Lois de notre monde ?</h1>
+                           <h1 class="text-white">Vous aimez quel style de vie ?</h1>
                         </div>
                         <div class="form_items">
                            <label for="opt_14" class="step_6 animate__animated animate__fadeInRight animate_25ms position-relative rounded-pill text-start text-white">
-                              C'est le pillier de notre monde
+                              Le luxe
                               <input id="opt_14" type="radio" name="stp_6_select_option" value="The Botanical Gardens" checked>
                            </label>
                            <label for="opt_15" class="step_6 animate__animated animate__fadeInRight animate_50ms position-relative rounded-pill text-start text-white active">
-                              Ennuyante
+                              Je prends se qui viens
                               <input id="opt_15" type="radio" name="stp_6_select_option" value="The Science museum">
                            </label>
                            <label for="opt_16" class="step_6 animate__animated animate__fadeInRight animate_75ms position-relative rounded-pill text-start text-white">
-                              M'en bas les c***lles
+                              La pauvreté
                               <input id="opt_16" type="radio" name="stp_6_select_option" value="The Olympic Stadium">
                            </label>
                         </div>
@@ -244,7 +244,7 @@
                            </div>
                         </div>
                         <div class="question_number text-capitalize">
-                           <span class="text-white">question 3 / 4</span>
+                           <span class="text-white">question 7 / 8</span>
                            <p class="pt-3">------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
                         </div>
                         <div class="question_title py-3">
@@ -269,84 +269,20 @@
                   ￼
                    
                   
-                  ￼	Le contrôle Reset
-                  Le contrôle Reset permet d'annuler les modifications apportées aux contrôles d'un formulaire et de restaurer les valeurs par défaut.
+               
                </div>
                               <!------------------------- Step-1 ----------------------------->
-               <div class="multisteps_form_panel step">
-                  <div class="col-md-6 m-auto">
-                     <div class="content_box py-5 ps-5 position-relative">
-                        <!-- Step-progress-bar -->
-                        <div class="step_progress_bar mb-3">
-                           <div class="progress rounded-pill">
-                              <div class="progress-bar mx-2 rounded-pill" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-                           </div>
-                        </div>
-                        <div class="question_number text-capitalize">
-                           <span class="text-white">question 1 / 4</span>
-                           <p class="pt-3">------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
-                        </div>
-                        <div class="question_title py-3">
-                           <h1 class="text-white">Que penser vous des Lois de notre monde ?</h1>
-                        </div>
-                        <div class="form_items">
-                           <label for="opt_20" class="step_8 animate__animated animate__fadeInRight animate_25ms position-relative rounded-pill text-start text-white">
-                              C'est le pillier de notre monde
-                              <input id="opt_20" type="radio" name="stp_8_select_option" value="The Botanical Gardens" checked>
-                           </label>
-                           <label for="opt_21" class="step_8 animate__animated animate__fadeInRight animate_50ms position-relative rounded-pill text-start text-white active">
-                              Ennuyante
-                              <input id="opt_21" type="radio" name="stp_8_select_option" value="The Science museum">
-                           </label>
-                           <label for="opt_22" class="step_8 animate__animated animate__fadeInRight animate_75ms position-relative rounded-pill text-start text-white">
-                              M'en bas les c***lles
-                              <input id="opt_22" type="radio" name="stp_8_select_option" value="The Olympic Stadium">
-                           </label>
-                        </div>
-                     </div>
-                  </div>
-               </div>
+           
                               <!------------------------- Step-1 ----------------------------->
-               <div class="multisteps_form_panel step">
+             
+                <!------------------------- Step-4 ----------------------------->
+                <div class="multisteps_form_panel step">
                   <div class="col-md-6 m-auto">
                      <div class="content_box py-5 ps-5 position-relative">
                         <!-- Step-progress-bar -->
                         <div class="step_progress_bar mb-3">
                            <div class="progress rounded-pill">
-                              <div class="progress-bar mx-2 rounded-pill" role="progressbar" style="width: 90%;" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                           </div>
-                        </div>
-                        <div class="question_number text-capitalize">
-                           <span class="text-white">question 1 / 4</span>
-                           <p class="pt-3">------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
-                        </div>
-                        <div class="question_title py-3">
-                           <h1 class="text-white">Que penser vous des Lois de notre monde ?</h1>
-                        </div>
-                        <div class="form_items">
-                           <label for="opt_23" class="step_9 animate__animated animate__fadeInRight animate_25ms position-relative rounded-pill text-start text-white">
-                              C'est le pillier de notre monde
-                              <input id="opt_23" type="radio" name="stp_9_select_option" value="The Botanical Gardens" checked>
-                           </label>
-                           <label for="opt_24" class="step_9 animate__animated animate__fadeInRight animate_50ms position-relative rounded-pill text-start text-white active">
-                              Ennuyante
-                              <input id="opt_24" type="radio" name="stp_9_select_option" value="The Science museum">
-                           </label>
-                           <label for="opt_25" class="step_9 animate__animated animate__fadeInRight animate_75ms position-relative rounded-pill text-start text-white">
-                              M'en bas les c***lles
-                              <input id="opt_25" type="radio" name="stp_9_select_option" value="The Olympic Stadium">
-                           </label>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <!------------------------- Step-4 ----------------------------->
-               <div class="multisteps_form_panel step">
-                  <div class="col-md-6 m-auto">
-                     <div class="content_box py-5 ps-5 position-relative">
-                        <!-- Step-progress-bar -->
-                        <div class="step_progress_bar mb-3">
-                           <div class="progress rounded-pill">
+                              <span><i class="far fa-clock"></i></span>
                               <div class="progress-bar mx-2 rounded-pill" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                            </div>
                         </div>
@@ -355,37 +291,37 @@
                            <p class="pt-3">------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
                         </div>
                         <div class="question_title py-3">
-                           <h1 class="text-white">Tu penses quoi de l'amour ?</h1>
+                           <h1 class="text-white">Que pensez vous de l'amour ?</h1>
                         </div>
                         <div class="form_items">
-                           <label for="opt_26" class="step_10 animate__animated animate__fadeInRight animate_25ms position-relative rounded-pill text-start text-white">
-                              Truc pour les cheloux
-                              <input id="opt_26" type="radio" name="stp_10_select_option" value="Sri Lanka" checked>
+                           <label for="opt_10" class="step_4 animate__animated animate__fadeInRight animate_25ms position-relative rounded-pill text-start text-white">
+                              C'est bien quand on trouve la bonne personne
+                              <input id="opt_10" type="radio" name="stp_4_select_option" value="Sri Lanka" checked>
                            </label>
-                           <label for="opt_27" class="step_10 animate__animated animate__fadeInRight animate_50ms position-relative rounded-pill text-start text-white">
-                              Ça existe mais pas en Afrique
-                              <input id="opt_27" type="radio" name="stp_10_select_option" value="China">
+                           <label for="opt_11" class="step_4 animate__animated animate__fadeInRight animate_50ms position-relative rounded-pill text-start text-white">
+                              ça existe mais pas en Afrique
+                              <input id="opt_11" type="radio" name="stp_4_select_option" value="China">
                            </label>
-                           <label for="opt_28" class="step_10 animate__animated animate__fadeInRight animate_75ms position-relative rounded-pill text-start text-white">
-                              C'est fun quand on trouve la bonne personne
-                              <input id="opt_28" type="radio" name="stp_10_select_option" value="Russia">
+                           <label for="opt_12" class="step_4 animate__animated animate__fadeInRight animate_75ms position-relative rounded-pill text-start text-white">
+                              l'amour c'est bien mais l'argent c'est mieux
+                              <input id="opt_12" type="radio" name="stp_4_select_option" value="Russia">
                            </label>
                         </div>
                      </div>
                   </div>
-               </div>
+               </div> 
                <!------------------------- Form button ----------------------------->
                <div class="form_btn">
-                  <button type="button" class="f_btn rounded-pill prev_btn text-uppercase text-white position-absolute" id="prevBtn" onclick="nextPrev(-1)"> Précédent</button>
-                  <button type="button" class="f_btn rounded-pill next_btn text-uppercase text-white position-absolute" id="nextBtn" onclick="nextPrev(1);rand()"></button>
+               <button type="button" class="f_btn rounded-pill prev_btn text-uppercase text-white position-absolute" id="prevBtn" onclick="nextPrev(-1)"> Last Question</button>
+                  <button type="button" class="f_btn rounded-pill next_btn text-uppercase text-white position-absolute" id="nextBtn"
                   onclick="nextPrev(1)">Next</button>
                </div>
             </form>
          </div>
       </div>
    </div>
-   <!-- jQuery-js include -->
-   <script src="assets/js/jquery-3.6.0.min.js"></scrip>
+    <!-- jQuery-js include -->
+    <script src="assets/js/jquery-3.6.0.min.js"></script>
    <!-- Bootstrap-js include -->
    <script src="assets/js/bootstrap.min.js"></script>
    <!-- jQuery-validate-js include -->
