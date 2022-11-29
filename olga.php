@@ -133,12 +133,12 @@
    
       <!-- Navbar-->
       <header class="navbar navbar-expand-lg navbar-dark fixed-top" data-scroll-header>
-        <div class="container"><a class="navbar-brand me-3 me-xl-4" href="index.html"><img class="d-block" src="img/logo/220px-Logo_serie_kaeloo2-u55252.png" width="116" alt="Finder"></a>
+        <div class="container"><a class="navbar-brand me-3 me-xl-4" href="index.php"><img class="d-block" src="img/logo/220px-Logo_serie_kaeloo2-u55252.png" width="116" alt="Finder"></a>
           <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
          
-          <a class="btn btn-primary btn-sm ms-2 order-lg-3" href="car-finder-sell-car.html">
+          <a class="btn btn-primary btn-sm ms-2 order-lg-3" href="quizz/index.php">
             <i class="fi-plus me-2"></i>GO</a>
  
          

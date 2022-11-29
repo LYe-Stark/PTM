@@ -133,12 +133,12 @@
    
       <!-- Navbar-->
       <header class="navbar navbar-expand-lg navbar-dark fixed-top" data-scroll-header>
-        <div class="container"><a class="navbar-brand me-3 me-xl-4" href="index.html"><img class="d-block" src="img/logo/220px-Logo_serie_kaeloo2-u55252.png" width="116" alt="Finder"></a>
+        <div class="container"><a class="navbar-brand me-3 me-xl-4" href="index.php"><img class="d-block" src="img/logo/220px-Logo_serie_kaeloo2-u55252.png" width="116" alt="Finder"></a>
           <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
          
-          <a class="btn btn-primary btn-sm ms-2 order-lg-3" href="car-finder-sell-car.html">
+          <a class="btn btn-primary btn-sm ms-2 order-lg-3" href="quizz/index.php">
             <i class="fi-plus me-2"></i>GO</a>
  
          
@@ -174,11 +174,12 @@
       <section class="container pb-3 pb-sm-4 pb-md-5">
         <div class="row align-items-center pb-5">
           <div class="col-md-7 col-lg-6 col-xl-5 offset-xl-1 text-center text-md-start mb-4 mb-md-0">
-            <h2 class="text-light mb-4"> Bèèèèèèèèèèè !!!</h2><br>
-            <h2 class="text-light mb-4">Votre personnalité est : Mouton</h2>
-            <p class="fs-lg text-light opacity-70 mb-md-5">Bèèèèèèè.....</p>
+            <h2 class="text-light mb-4">Bonzour les amis !..</h2><br>
+            <h2 class="text-light mb-4">Votre personnalité est : Kaeloo</h2>
+            <p class="fs-lg text-light opacity-70 mb-md-5">Monsieur Sa. Arreté de faire bobo à Coin-coin</p>
+
           </div>
-          <div class="col-md-5 col-lg-6"><img class="d-block mx-auto" src="img/car-finder/home/Rendu_mouton_png.png" width="460" alt="Mobile App"></div>
+          <div class="col-md-5 col-lg-6"><img class="d-block mx-auto" src="img/car-finder/home/mobile-app2.png" width="460" alt="Mobile App"></div>
         </div>
       </section>
 

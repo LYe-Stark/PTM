@@ -42,9 +42,14 @@ $(".step_10").on('click', function(){
 });
 
 });
-
 var currentTab = 0; // Current tab is set to be the first tab (0)
 showTab(currentTab); // Display the current tab
+
+function RandArray(array){
+    var rand = Math.random()*array.length | 0;
+    var rValue = array[rand];
+    return rValue;
+}
 
 function showTab(n) {
   // This function will display the specified tab of the form ...
@@ -58,41 +63,31 @@ function showTab(n) {
   }
   if (n == (x.length - 1)) {
     document.getElementById("nextBtn").innerHTML = "Valider";
+
   } else {
     document.getElementById("nextBtn").innerHTML = "Suivant";
   }
   // ... and run a function that displays the correct step indicator:
   fixStepIndicator(n)
 }
-/******** Dayane *********/
 
-function RandArray(array){
-    var rand = Math.random()*array.length | 0;
-    var rValue = array[rand];
-    return rValue;
-}
+/**************************************************************************************************************************************************************************************************** */
 
-function rand() {
-    if (document.getElementById("nextBtn").innerHTML == "Valider") {
-      var MyArray = [
-        "../chat.html", 
-        "../cherdegay.html", 
-        "../kaeloo.html",
-        "../moignon.html",
-        "../eugli.html",
-        "../kouin.html",
-        "../mouton.html",
-        "../olaf.html",
-        "../olga.html",
-        "../pretty.html",
-        "../ursulla.html"]
-    var rValue = RandArray(MyArray);
-    document.cookie="random="+rValue;
+   /*$(document).on("click", "#nextBtn", function(){
+    if(document.getElementById("nextBtn").innerHTML == "Valider"){
+      var MyArray = ["chat.php","cherdegay.php", "kaeloo.php","moignon.php","eugli.php","kouin.php","mouton.php","olaf.php","olga.php","pretty.php","ursulla.php"];
+      var rando = RandArray(MyArray);
+      
+      $.ajax({//http://api.jquery.com/jQuery.ajax/
+               url: "yourServer.php",
+               type: "POST",
+               data: rando,
+               dataType: "json"
+            });
     }
+   });*/
 
-}
-
-/********************* */
+/*******************************************************************************/
 
 function nextPrev(n) {
   // This function will figure out which tab to display
@@ -109,8 +104,6 @@ function nextPrev(n) {
     document.getElementById("wizard").submit();
     return false;
   }
-  /*if (document.getElementById('wizard').submit()) {
-  }*/
   // Otherwise, display the correct tab:
   showTab(currentTab);
 }

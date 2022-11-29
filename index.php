@@ -138,7 +138,7 @@
             <span class="navbar-toggler-icon"></span>
           </button>
          
-          <a class="btn btn-primary btn-sm ms-2 order-lg-3" href="car-finder-sell-car.html">
+          <a class="btn btn-primary btn-sm ms-2 order-lg-3" href="quizz/index.php">
             <i class="fi-plus me-2"></i>GO</a>
  
          
@@ -148,10 +148,21 @@
       <!-- Page content-->
       <!-- Hero + Search form-->
       <section class="bg-position-top-center bg-repeat-0 pt-5" style="background-image: url(img/car-finder/home/hero-bg.png); background-size: 1920px 630px;">
-     
+        <div class="container pt-5">
+          <div class="row pt-lg-4 pt-xl-5">
+            <div class="col-lg-4 col-md-5 pt-3 pt-md-4 pt-lg-5">
+              <h1 class="display-4 text-light pb-2 mb-4 me-md-n5">Bienvenue au pays trop <center><span>mignon</span></center></h1>
+              <p class="fs-lg text-light opacity-70">PTM est la plateforme qui vous permet de connaitre a quel personnage du pays trop mignon vous correspondez dans la vie réelle ...</p>
+            </div>
+            <div class="col-lg-8 col-md-7 pt-md-5"><img class="d-block mt-4 ms-auto" src="img/car-finder/home/hero-img.png" width="800" alt="Car"></div>
+          </div>
+        </div>
         <div class="container mt-4 mt-sm-3 mt-lg-n3 pb-5 mb-md-4">
           <!-- Tabs-->
-       
+          <center>
+            <a class="btn btn-primary btn-sm ms-2 order-lg-3" href="quizz/index.php">
+              <i class="fi-plus me-2"></i>GO</a>
+          </center>
          
  
           <!-- Form group-->
@@ -165,21 +176,82 @@
       <!-- Brands-->
 
       <!-- Features-->
- 
+      <section class="container pt-4 pt-md-5">
+        <div class="d-sm-flex align-items-center justify-content-between">
+          <h2 class="h3 text-light mb-2 mb-sm-0">Comment ça marche ?</h2></a>
+        </div>
+        <div class="row">
+          <div class="col-md-5 col-lg-4 offset-lg-1 pt-4 mt-2 pt-md-5 mt-md-3">
+            <div class="d-flex pb-4 pb-md-5 mb-2"><i class="fi-file lead text-primary mt-1 order-md-2"></i>
+              <div class="text-md-end ps-3 ps-md-0 pe-md-3 order-md-1">
+                <h3 class="h6 text-light mb-1">Repondez au quizz avec franchise</h3>
+                <p class="fs-sm text-light opacity-70 mb-0">Donnez une réponse exacte vous permettras d'obtenir une analyse parfaite .</p>
+              </div>
+            </div>
+          
+            <div class="d-flex pb-4 pb-md-5 mb-2"><i class="fi-settings lead text-primary mt-1 order-md-2"></i>
+              <div class="text-md-end ps-3 ps-md-0 pe-md-3 order-md-1">
+                <h3 class="h6 text-light mb-1">PTM IA algo analyse</h3>
+                <p class="fs-sm text-light opacity-70 mb-0">Notre algorithme du pays trop mignon s'occupe de tout analyser pour faire sortir votre personnalité ...</p>
+              </div>
+            </div>
+          </div>
+      
+          <div class="col-md-5 col-lg-4 pt-md-5 mt-md-3">
+           
+            </div>
+            <div class="d-flex pb-4 pb-md-5 mb-2"><i class="fi-users lead text-primary mt-1"></i>
+              <div class="ps-3">
+                <h3 class="h6 text-light mb-1">Votre personnage est trouver</h3>
+                <p class="fs-sm text-light opacity-70 mb-0">Moignon, kaeloo, Mr sat, kouin kouin, olaf, olga le glaçon d'amour etc ... a qui vous correspondez ?</p>
+              </div>
+            </div>
+          
+          </div>
+        </div>
+      </section>
       <!-- Latest cars (carousel)-->
     
       <!-- CTA carousel-->
-   
+      <section class="container pt-4 pb-5 py-sm-5">
+        <div class="tns-carousel-wrapper">
+          <div class="tns-carousel-inner d-block d-md-flex" data-carousel-options="{&quot;controlsContainer&quot;: &quot;#external-controls&quot;, &quot;nav&quot;: false, &quot;gutter&quot;: 20, &quot;autoHeight&quot;: true}">
+            <!-- Slide 1-->
+            <div>
+              <div class="card card-body p-sm-5 card-light h-100">
+                <div class="row align-items-center py-3 py-sm-0">
+                  <div class="col-md-4 col-xl-3 mb-4 pb-3 mb-md-0 pb-md-0 text-center text-md-start">
+                    <h2 class="text-light">QUI EST TU ?</h2>
+                    <p class="fs-lg text-light opacity-70 pb-md-4">Découvre qui tu incarne !</p><a class="btn btn-primary" href="quizz/index.php">Go to PTM<i class="fi-chevron-right fs-sm ms-2"></i></a>
+                  </div>
+                  <div class="col-md-8 col-xl-9">
+                    <div class="row row-cols-2 row-cols-lg-4 gy-4 gx-3 gx-sm-4"><a class="col text-light text-decoration-none" href="#"><img class="d-block mb-2 mx-auto" src="img/car-finder/categories/01.png" width="168" alt="Seat Covers">
+                        <div class="fw-bold text-center pt-1">KAELOO</div></a><a class="col text-light text-decoration-none" href="#"><img class="d-block mb-2 mx-auto" src="img/car-finder/categories/02.png" width="168" alt="Tires">
+                        <div class="fw-bold text-center pt-1">MOIGNON</div></a><a class="col text-light text-decoration-none" href="#"><img class="d-block mb-2 mx-auto" src="img/car-finder/categories/03.png" width="168" alt="Disks">
+                        <div class="fw-bold text-center pt-1">Mr CHAT</div></a><a class="col text-light text-decoration-none" href="#"><img class="d-block mb-2 mx-auto" src="img/car-finder/categories/04.png" width="168" alt="Child Seats">
+                        <div class="fw-bold text-center pt-1">KOUIN KOUIN</div></a></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- Slide 2-->
+          
+        
+        <!-- External carousel controls-->
+        <div class="tns-carousel-controls tns-carousel-light pt-4 pb-2" id="external-controls">
+          <button class="me-3" type="button"><i class="fi-chevron-left"></i></button>
+          <button type="button"><i class="fi-chevron-right"></i></button>
+        </div>
+      </section>
       <!-- Mobile app CTA-->
       <section class="container pb-3 pb-sm-4 pb-md-5">
         <div class="row align-items-center pb-5">
           <div class="col-md-7 col-lg-6 col-xl-5 offset-xl-1 text-center text-md-start mb-4 mb-md-0">
-            <h2 class="text-light mb-4">Heumm Heumm Heummmmm !!!</h2><br>
-            <h2 class="text-light mb-4">Votre personnalité est : Eugly</h2>
-            <p class="fs-lg text-light opacity-70 mb-md-5">.....</p>
+            <h2 class="text-light mb-4">C'EST DIIIIIIIINNGUE !..</h2>
+            <p class="fs-lg text-light opacity-70 mb-md-5">Dans la vie y a deux types de personne, ceux qui tiennent une banane et ceux qui creusent et toi tuuu creuses !.....</p>
 
           </div>
-          <div class="col-md-5 col-lg-6"><img class="d-block mx-auto" src="img/car-finder/home/Eugly.png" width="460" alt="Mobile App"></div>
+          <div class="col-md-5 col-lg-6"><img class="d-block mx-auto" src="img/car-finder/home/mobile-app.png" width="460" alt="Mobile App"></div>
         </div>
       </section>
 
@@ -192,6 +264,7 @@
       <div class="container d-lg-flex align-items-center justify-content-between fs-sm pb-3">
 
         <p class="text-center text-lg-start order-lg-1 mb-lg-0"><span class="text-light opacity-50">&copy; Tous droits réservés. Made by </span><a class="nav-link-light fw-bold" href="https://createx.studio/" target="_blank" rel="noopener">Paterne LYE</a></p>
+        <p class="text-center text-lg-start order-lg-1 mb-lg-0"><span class="text-light opacity-50">Contacts: </span><a class="nav-link-light fw-bold" href="https://wa.me/22995476561" target="_blank" rel="noopener">+229 95 47 65 61</a></p>
       </div>
     </footer>
     <!-- Back to top button--><a class="btn-scroll-top" href="#top" data-scroll><span class="btn-scroll-top-tooltip text-muted fs-sm me-2">Top</span><i class="btn-scroll-top-icon fi-chevron-up">   </i></a>
